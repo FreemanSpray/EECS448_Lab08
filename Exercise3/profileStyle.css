@@ -1,0 +1,70 @@
+body
+{
+	background-color: lightblue;
+}
+
+h1{
+	background-color: darksalmon; 
+	color: black; 
+	font-family: Impact;
+	font-size: 26;
+	font-style: italic;
+	text-align: center;
+}
+
+p
+{
+	background-color:darksalmon; 
+	color: black; 
+	font-family: Courier; 
+	font-size: 19;
+	text-align: center;
+}
+
+p.stats
+{
+	font-family: Impact; 
+	text-align: left;
+}
+
+p.caption
+{
+	font-family: Impact;
+	font-size: 23;
+}
+
+p.caption:hover
+{
+	opacity: 1;
+}
+
+img
+{
+	border: 2px solid;
+	border-color: darksalmon;
+	padding: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img:hover
+{
+	width: 700px;
+	height: 700px;
+}
+
+iframe
+{
+	border: 2px solid;
+	border-color: darksalmon;
+	padding: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a
+{
+	float: center;
+}
